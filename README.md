@@ -24,6 +24,13 @@
 ### • The app should respond quickly, with minimal delay in fetching and converting rates.
 ### • Handle no/slow internet scenarios gracefully with proper user alerts. 
 ### • Ensure that currency conversions are done with precision, reflecting the most recent exchange rates.
+
+## Usage
+### • Online Shopping Use for checking real-time prices in home currency when shopping on international websites like Amazon, eBay, or AliExpress.
+### • Business & Trade Helps importers/exporters calculate accurate costs and profits when dealing with global suppliers or customers.
+### • Stock Market & Forex Traders Used by investors to monitor currency fluctuations and make informed trading decisions.
+### • Sending Money Abroad Use for when transferring money internationally via platforms like PayPal, Wise, or Western Union, to calculate the received amount.
+ 
  
 ## Screenshot
 <img width="395" height="577" alt="image" src="https://github.com/user-attachments/assets/a7469e05-327d-4ae1-b416-e72e08e78e47" />
