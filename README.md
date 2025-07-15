@@ -14,5 +14,16 @@
 ### • For backend technology SQLite use Local database to store conversion history or user preferences.
 ### • For API service exchange rate API Provides real-time currency exchange rates.
 
+# Requirements
+## Functional Requirements :
+### • Convert an amount from one currency to another based on real-time exchange rates.
+### • Support conversion between multiple international currencies (e.g., USD, EUR, INR, GBP).
+### • A simple and responsive UI for inputting amount, selecting currencies, and viewing results.
+### • Show the date/time of the latest exchange rate fetched.
+## Non-Functional Requirements :
+### • The app should respond quickly, with minimal delay in fetching and converting rates.
+### • Handle no/slow internet scenarios gracefully with proper user alerts. 
+### • Ensure that currency conversions are done with precision, reflecting the most recent exchange rates.
+ 
 ## Screenshot
 <img width="395" height="577" alt="image" src="https://github.com/user-attachments/assets/a7469e05-327d-4ae1-b416-e72e08e78e47" />
