@@ -9,11 +9,10 @@
 ### • Conversion History – Optionally stores recent conversion records.
 ### • Secure Data Handling – Ensures safe access to APIs and protects user data.
 
-# Technologies Used
-## Fronted Technologies :
-### • java Used for building the main logic and structure of the Android app.
-### • XML Used for designing the layout and user interface of the app in Android.
-### • Exchange rate API Provides real-time currency exchange rates.
+## Technologies Used
+### • For frontend technology java Used for building the main logic and structure of the Android app and XML used for designing the layout and user interface of the app in Android.
+### • For backend technology SQLite use Local database to store conversion history or user preferences.
+### • For API service exchange rate API Provides real-time currency exchange rates.
 
 
 
