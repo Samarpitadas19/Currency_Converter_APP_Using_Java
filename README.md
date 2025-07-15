@@ -9,4 +9,13 @@
 ### • Conversion History – Optionally stores recent conversion records.
 ### • Secure Data Handling – Ensures safe access to APIs and protects user data.
 
+# Technologies Used
+## Fronted Technologies :
+### • java Used for building the main logic and structure of the Android app.
+### • XML Used for designing the layout and user interface of the app in Android.
+### • Exchange rate API Provides real-time currency exchange rates.
+
+
+
+
 <img width="395" height="577" alt="image" src="https://github.com/user-attachments/assets/a7469e05-327d-4ae1-b416-e72e08e78e47" />
